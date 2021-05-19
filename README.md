@@ -1,11 +1,8 @@
-## Heeey party people, I am Fressia 🤙
+## Heeey party people, I'm Fressia 🤙
 
-👩🏻‍💻 I’m currently learning Web Development with the amazing HackYourFuture team <br>
-
+👩🏻‍💻 I’m currently learning Web Development with the amazing <a href="https://github.com/HackYourFuture">HackYourFuture</a> team<br>
 🌈 Pronouns: she / he / they <br>
-
 ⚡ Fun fact: I'm a certified Yoga teacher <br>
-
 📫 Reach me here
 
 <a href="mailto:fressiabarrios2@gmail.com">
@@ -15,7 +12,12 @@
 <a href="https://www.linkedin.com/in/fressiabarrios/">
   <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_square_128x128.png" width="50"/>
 </a>
+<br>
+<br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barrios2&show_icons=true&theme=tokyonight)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrios2&theme=tokyonight"/>
 
 
 <!-- 
