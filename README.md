@@ -1,7 +1,9 @@
 ## Heeey party people, I am Fressia 🤙
 
 👩🏻‍💻 I’m currently learning Web Development with the amazing HackYourFuture team <br>
+
 🌈 Pronouns: she / he / they <br>
+
 ⚡ Fun fact: I'm a certified Yoga teacher <br>
 
 📫 Reach me here
