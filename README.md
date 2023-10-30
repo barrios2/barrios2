@@ -1,8 +1,7 @@
-## Heeey, I'm Fressia 🤙
+## Heeey there, I'm Fressia 🤙
 
 👩🏻‍💻 I’m currently learning Web Development with the amazing <a href="https://github.com/HackYourFuture">HackYourFuture</a> team<br>
-🌈 Pronouns: she / they <br>
-⚡ Fun fact: I'm a certified Yoga teacher <br>
+⚡ Fun fact: I'm a certified Yoga teacher and also love pole dancing<br>
 📫 Reach me here
 
 <a href="mailto:fressiabarrios2@gmail.com">
