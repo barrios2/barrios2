@@ -18,7 +18,7 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barrios2&show_icons=true&theme=tokyonight)
+![github](https://awesome-github-stats.azurewebsites.net/user-stats/barrios2?cardType=github&theme=tokyonight)
 
 <!-- 
 🔭 I’m currently working on ...
