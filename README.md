@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi there, I'm Fressia :)</h1>
 
-👩🏻‍💻 I’m currently learning Web Development with the amazing <a href="https://github.com/HackYourFuture" target="_blank">HackYourFuture</a> team<br>
+✨ I recently graduated from the <a href="https://github.com/HackYourFuture" target="_blank">HackYourFuture</a> program<br>
+👩🏻‍💻 Currently learning about Software Testing
 ⚡ Fun fact: I'm a certified Yoga teacher and also love pole dancing<br>
 
 <div align="center">
@@ -22,14 +23,10 @@
  
 <h2 align="center">GitHub Stats</h2>
 
+<div align="center">
+  
 ![github](https://awesome-github-stats.azurewebsites.net/user-stats/barrios2?cardType=github&theme=tokyonight)
 
-<!-- 
-🔭 I’m currently working on ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
- -->
-
+</div>
 
 
