@@ -8,11 +8,11 @@
 📫 Reach me here
 
 <a href="mailto:fressiabarrios2@gmail.com">
-  <img src="https://iconape.com/wp-content/png_logo_vector/gmail-2.png" width="50"/>
+  <img src="https://iconape.com/wp-content/png_logo_vector/gmail-2.png" width="50" target="_blank"/>
 </a>
 
 <a href="https://www.linkedin.com/in/fressiabarrios/">
-  <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_square_128x128.png" width="50"/>
+  <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_square_128x128.png" width="50" target="_blank"/>
 </a>
 <br>
 <br>
