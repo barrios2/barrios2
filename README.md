@@ -4,8 +4,8 @@
 
 <h1 align="center">Hi there, I'm Fressia :)</h1>
 
-✨ I recently graduated from the <a href="https://github.com/HackYourFuture" target="_blank">HackYourFuture</a> program<br>
-👩🏻‍💻 Currently learning about Software Testing
+✨ I recently graduated from the <a href="https://github.com/HackYourFuture" target="_blank">HackYourFuture</a> program and now I am a proud full stack developer<br>
+👩🏻‍💻 Currently learning about Software Testing<br>
 ⚡ Fun fact: I'm a certified Yoga teacher and also love pole dancing<br>
 
 <div align="center">
