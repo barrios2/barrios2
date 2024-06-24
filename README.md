@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGU2bjF4Z2k1emE5NGVnbDEzMno4Z2V1dGtxMXVldXA0dXB3bzhmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jzuSsejVh8EYRfdOTz/giphy.gif" width="400"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVybW85d2F2ZGJ3dGR0cjA3bnUxdzNuZmphN2Z1MTBzMGhuMGxvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif" width="400"/>
 </div>
 
 <h1 align="center">Hi there, I'm Fressia :)</h1>
