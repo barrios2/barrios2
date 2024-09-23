@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi there, I'm Fressia :)</h1>
 
-✨ I recently graduated from the <a href="https://github.com/HackYourFuture" target="_blank">HackYourFuture</a> program and now I am a proud full stack developer<br>
-👩🏻‍💻 Currently learning about Software Testing<br>
-⚡ Fun fact: I'm a certified Yoga teacher and also love pole dancing<br>
+Passionate about quality in what I do, I switched from diplomacy to tech. After years in outsourcing, I became a Full-stack Developer through <a href="https://github.com/HackYourFuture" target="_blank">HackYourFuture</a>, focusing on Software Testing. I’m driven by curiosity and love learning. Outside of work, you’ll find me dancing, out in nature, or just hanging at home.
+
+✨ Fun fact: I'm a certified Yoga teacher and I play the surdo 🥁<br>
 
 <div align="center">
   <a href="mailto:fressiabarrios2@gmail.com">
