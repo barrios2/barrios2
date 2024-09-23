@@ -6,7 +6,7 @@
 
 Passionate about quality in what I do, I switched from diplomacy to tech. After years in outsourcing, I became a Full-stack Developer through <a href="https://github.com/HackYourFuture" target="_blank">HackYourFuture</a>, focusing on Software Testing. I’m driven by curiosity and love learning. Outside of work, you’ll find me dancing, out in nature, or just hanging at home.
 
-✨ Fun fact: I'm a certified Yoga teacher and I play the surdo 🥁<br>
+✨ Fun fact: I'm a certified Yoga teacher and I play the Surdo 🥁<br>
 
 <div align="center">
   <a href="mailto:fressiabarrios2@gmail.com">
